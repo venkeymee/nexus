@@ -1,0 +1,32 @@
+Nexus
+
+ URL: - https://help.sonatype.com/repomanager3/download
+ 
+make local up
+	go to dir/bin> ./nexus run
+	
+	   cmd:- ./nexus run
+			stop
+			  ..etc 		   
+
+ Categories of Repos 
+	--> Group (we can combine multiple repos under one group)
+	--> proxy 
+	--> hosted 
+	
+	
+Others :- Auth,
+	  Blob storage 
+	  
+
+   
+   
+   etc .. 
+  
+ Node js --> tested working 
+ 
+ 
+ 
+ 
+ 
+	
